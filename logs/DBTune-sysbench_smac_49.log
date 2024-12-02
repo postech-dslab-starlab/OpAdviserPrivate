@@ -82535,3 +82535,5 @@
 [INFO] [2024-11-25 21:25:37,290] [autotune] mysql is up
 [INFO] [2024-11-25 21:25:37,291] [autotune] sleeping for 5 seconds after restarting mysql
 [INFO] [2024-11-25 21:25:42,300] [DBTune-sysbench_smac_49] Iteration 200, objective value: [2147483647].
+[INFO] [2024-11-30 16:58:27,687] [DBTune-sysbench_smac_49] Load 200 iterations from repo/history_sysbench_smac_49.json
+[INFO] [2024-11-30 16:58:27,973] [BO_Optimizer] === [BO auto selection] === acq_type: ei.
